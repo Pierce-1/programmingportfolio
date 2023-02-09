@@ -14,15 +14,14 @@ OOP Graphical Calculator built in Processing 4
 
 OOP Space Game built in Processing 4
 
-![Running SpaceGame](https://github.com/Pierce-1/programmingportfolio/blob/main/images/spacegame.png?raw=true)
+![Running Space Game](https://github.com/Pierce-1/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
-[Calculator Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/spacegame)
+[Space Game Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/spacegame)
 
-### Calculator
+### Screen Saver
+OOP Screen Saver built in Processing 4
 
-OOP Graphical Calculator built in Processing 4
+![Running Screen Saver](https://github.com/Pierce-1/programmingportfolio/blob/main/images/screensaver.png?raw=true)
 
-![Running Calculator](https://github.com/Pierce-1/programmingportfolio/blob/main/images/Calc.png?raw=true)
-
-[Calculator Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/calc)
+[Screen Saver Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/calc)
 
