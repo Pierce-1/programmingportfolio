@@ -16,7 +16,7 @@ OOP Space Game built in Processing 4
 
 ![Running SpaceGame](https://github.com/Pierce-1/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
-[Calculator Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/calc)
+[Calculator Source Code]([https://github.com/Pierce-1/programmingportfolio/tree/main/src/calc](https://github.com/Pierce-1/programmingportfolio/tree/main/src/spacegame))
 
 ### Calculator
 
