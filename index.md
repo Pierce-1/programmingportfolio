@@ -23,5 +23,5 @@ OOP Screen Saver built in Processing 4
 
 ![Running Screen Saver](https://github.com/Pierce-1/programmingportfolio/blob/main/images/screensaver.png?raw=true)
 
-[Screen Saver Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/calc)
+[Screen Saver Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/screenSaver)
 
