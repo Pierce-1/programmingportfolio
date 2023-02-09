@@ -3,6 +3,8 @@
 ## Processsing Projects
 
 ### Calculator
+
 OOP Graphical Calculator built in Processing 4
+
 ![Running Calculator](https://github.com/Pierce-1/programmingportfolio/blob/main/images/Calc.png?raw=true)
 [Calculator Source Code]()
