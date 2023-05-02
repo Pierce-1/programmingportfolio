@@ -7,7 +7,9 @@ pierleav9725@granitesd.org
 
 No Certifications
 
-Group Projects
+Group Projects:
+
+
 
 ## Processsing Projects
 
