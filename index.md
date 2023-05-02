@@ -28,13 +28,13 @@ OOP Screen Saver built in Processing 4
 ### Piglatin Translator
 Piglatin translator built in Replit
 
-![Running Screen Saver](https://github.com/Pierce-1/programmingportfolio/blob/main/images/Piglatin.png?raw=true)
+![Running Piglatin Translator](https://github.com/Pierce-1/programmingportfolio/blob/main/images/Piglatin.png?raw=true)
 
-[Screen Saver Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/piglatin)
+[Piglatin Translator Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/piglatin)
 
 ### Number Guessing Game
 Number Guessing Game built in Replit
 
-![Running Screen Saver]()
+![Running Number Guessing Game](https://github.com/Pierce-1/programmingportfolio/blob/main/images/NumberGuessingGame.png?raw=true)
 
-[Screen Saver Source Code]()
+[Number Guessing Game Source Code]()
