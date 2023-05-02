@@ -1,7 +1,14 @@
 # 2022-23 Programming I Portfolio
 By Pierce Leavitt
-Email pierleav9725@granitesd.org
+
+Cantact Info:
+
+pierleav9725@granitesd.org
+
 No Certifications
+
+Group Projects
+
 ## Processsing Projects
 
 ### Calculator
