@@ -37,4 +37,4 @@ Number Guessing Game built in Replit
 
 ![Running Number Guessing Game](https://github.com/Pierce-1/programmingportfolio/blob/main/images/NumberGuessingGame.png?raw=true)
 
-[Number Guessing Game Source Code]()
+[Number Guessing Game Source Code](https://github.com/Pierce-1/programmingportfolio/tree/main/src/numberGuessingGame)
